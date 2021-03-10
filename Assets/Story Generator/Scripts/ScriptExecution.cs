@@ -1339,6 +1339,7 @@ namespace StoryGenerator.Utilities
             if (!canSelect && addReportItem)
             {
                 report.AddItem("PROCESS WALK", $"Can not select object: {a.Name.Name}. REASON: {errormessage}");
+                Debug.Log(addReportItem);
             }
         }
 
