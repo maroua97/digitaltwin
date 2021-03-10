@@ -6,40 +6,40 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/2dCharacter.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/AircraftJet2Axis.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/AircraftJetAI.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/AircraftPropeller4Axis.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/AircraftPropellerAI.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/Car.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/CarAIWaypointBased.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/CharacterFirstPerson.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/CharacterThirdPerson.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/CharacterThirdPersonAI.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/Particles.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/SampleScenes/Scenes/RollerBall.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Story Generator/TestScene/TestScene.unity
@@ -53,7 +53,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Story Generator/TestScene/TestScene_4.unity
     guid: 7a1908198db6a43e89cf35aa63d5dc0f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Story Generator/TestScene/TestScene_5.unity
     guid: 94391c3f2d34f4edabc8bb2cc09b9be4
   - enabled: 0
@@ -62,3 +62,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Story Generator/TestScene/TestScene_7.unity
     guid: 3c837cbebbfe547d795c1abda9a429d7
+  - enabled: 1
+    path: Assets/Story Generator/TestScene/TestScene_8.unity
+    guid: c3b9ae1528b44334e8a1490a64ca1a90
+  m_configObjects: {}
