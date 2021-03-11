@@ -610,7 +610,7 @@ GameObject:
   - component: {fileID: 781862219}
   - component: {fileID: 781862218}
   m_Layer: 0
-  m_Name: PRE_WAL_WAL_Straight_05_01_01
+  m_Name: PRE_WAL_WAL_Straight_05_01_01_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -964,7 +964,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 184802, guid: 6c64c0ab279ac4afe973557a1ab5600d, type: 3}
       propertyPath: m_Name
-      value: PRE_FUR_CPU_chair_01_01
+      value: PRE_FUR_Sofa_02_01_01_01
       objectReference: {fileID: 0}
     - target: {fileID: 468172, guid: 6c64c0ab279ac4afe973557a1ab5600d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1338,7 +1338,7 @@ GameObject:
   - component: {fileID: 1408321442}
   - component: {fileID: 1408321441}
   m_Layer: 0
-  m_Name: PRE_WAL_WAL_Straight_05_01_02
+  m_Name: PRE_WAL_WAL_Straight_05_01_01_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1625,11 +1625,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.7787085
+      value: 2.91
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3739076
+      value: 1.33
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1666,6 +1666,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7c3d558c0575a84d978fefda4b33fea, type: 3}
